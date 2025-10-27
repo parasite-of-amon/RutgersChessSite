@@ -1,2 +1,1 @@
-# RutgersChessSite
-RutgersChessSite
+## Scarlet Kngiht Chess Club
